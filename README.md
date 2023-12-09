@@ -1,5 +1,7 @@
 # Laptop-Price-Predictor
 
+https://dev-laptop-price-predictor-e2bf28dfe29.herokuapp.com/
+
 The project set out to develop a machine learning application using Streamlit for predicting laptop prices. The goal included conducting exploratory data analysis, feature engineering, and deploying the most accurate regression model for precise price predictions.
 
 Commencing with exploratory data analysis, insights were gained into the dataset's characteristics. Feature engineering refined relevant information, leading to the training of multiple regression models. The Random Forest Regressor emerged as the top performer, boasting an impressive R2 score of 88.7%. The user-friendly Streamlit interface simplified the input of laptop specifications and obtaining price predictions. The app was successfully deployed on Heroku for widespread accessibility.
